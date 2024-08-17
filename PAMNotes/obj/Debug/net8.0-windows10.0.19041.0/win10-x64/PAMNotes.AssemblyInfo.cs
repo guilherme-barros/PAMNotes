@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PAMNotes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+77fc3e6585b316460e5fa61453d7bd4396560536")]
 [assembly: System.Reflection.AssemblyProductAttribute("PAMNotes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PAMNotes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

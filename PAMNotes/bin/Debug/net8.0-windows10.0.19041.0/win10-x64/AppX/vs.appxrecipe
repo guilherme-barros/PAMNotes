@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.pamnotes</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>D:\Gui\PAMNotes\PAMNotes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>D:\Gui\teste\PAMNotes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>DD1EAE9B2E660E1CF75CD89FB733EAF840258B1FB0ABBACD2823AF1C2CC223EE</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.pamnotes_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.pamnotes_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,268 +27,268 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="D:\Gui\PAMNotes\PAMNotes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="D:\Gui\teste\PAMNotes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-08-16T23:02:04.421</Modified>
+      <Modified>2024-08-17T01:14:40.212</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-08-09T22:46:33.884</Modified>
+      <Modified>2024-08-17T01:01:09.243</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PAMNotes.runtimeconfig.json">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PAMNotes.runtimeconfig.json">
       <PackagePath>PAMNotes.runtimeconfig.json</PackagePath>
-      <Modified>2024-08-16T23:02:04.179</Modified>
+      <Modified>2024-08-17T00:25:36.318</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PAMNotes.dll">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PAMNotes.dll">
       <PackagePath>PAMNotes.dll</PackagePath>
-      <Modified>2024-08-16T23:02:03.296</Modified>
+      <Modified>2024-08-17T01:14:39.970</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>PAMNotes.exe</PackagePath>
-      <Modified>2024-08-16T23:02:03.355</Modified>
+      <Modified>2024-08-17T01:14:39.970</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2024-08-09T22:34:01.967</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2024-08-09T22:34:14.181</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2024-08-09T22:34:14.202</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2024-08-09T22:34:14.221</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2024-08-09T22:34:14.250</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2024-08-09T22:34:14.362</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2024-08-09T22:34:01.962</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2024-08-09T22:34:01.963</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2024-08-09T22:34:14.738</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2024-08-09T22:34:15.117</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2024-08-09T22:34:15.137</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2024-08-09T22:34:15.156</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2024-08-09T22:34:15.186</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2024-08-09T22:34:15.304</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2024-08-09T22:34:14.837</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2024-08-09T22:34:14.842</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2024-08-09T22:34:14.861</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2024-08-09T22:34:14.846</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2024-08-09T22:34:14.850</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2024-08-09T22:34:14.808</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2024-08-09T22:34:14.812</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2024-08-09T22:34:14.833</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2024-08-09T22:34:14.817</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2024-08-09T22:34:14.822</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2024-08-09T22:34:14.748</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2024-08-09T22:34:14.753</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2024-08-09T22:34:14.758</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2024-08-09T22:34:14.764</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2024-08-09T22:34:14.771</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2024-08-09T22:34:14.776</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2024-08-09T22:34:14.783</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2024-08-09T22:34:14.803</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2024-08-09T22:34:14.787</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2024-08-09T22:34:14.792</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2024-08-09T22:34:14.930</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2024-08-09T22:34:14.938</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2024-08-09T22:34:14.948</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2024-08-09T22:34:14.961</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2024-08-09T22:34:14.991</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2024-08-09T22:34:14.894</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2024-08-09T22:34:14.899</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2024-08-09T22:34:14.904</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2024-08-09T22:34:14.911</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2024-08-09T22:34:14.923</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2024-08-09T22:34:14.866</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2024-08-09T22:34:14.870</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2024-08-09T22:34:14.875</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2024-08-09T22:34:14.880</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2024-08-09T22:34:14.889</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2024-08-09T22:34:14.999</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2024-08-09T22:34:15.011</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2024-08-09T22:34:15.024</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2024-08-09T22:34:15.045</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2024-08-09T22:34:15.103</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2024-08-09T22:34:14.732</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2024-08-09T22:34:14.745</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2024-08-09T22:34:14.756</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2024-08-09T22:34:14.774</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2024-08-09T22:34:14.839</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="D:\Gui\PAMNotes\PAMNotes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PAMNotes.deps.json">
+    <AppxPackagedFile Include="D:\Gui\teste\PAMNotes\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\PAMNotes.deps.json">
       <PackagePath>PAMNotes.deps.json</PackagePath>
-      <Modified>2024-08-16T23:02:04.054</Modified>
+      <Modified>2024-08-17T01:01:09.055</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

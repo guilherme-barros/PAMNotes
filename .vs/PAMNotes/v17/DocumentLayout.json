@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gui\\teste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7438A1-16A7-4BB7-9AE5-39411FC3626B}|PAMNotes\\PAMNotes.csproj|d:\\gui\\teste\\pamnotes\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A7438A1-16A7-4BB7-9AE5-39411FC3626B}|PAMNotes\\PAMNotes.csproj|solutionrelative:pamnotes\\aboutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7438A1-16A7-4BB7-9AE5-39411FC3626B}|PAMNotes\\PAMNotes.csproj|d:\\gui\\teste\\pamnotes\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A7438A1-16A7-4BB7-9AE5-39411FC3626B}|PAMNotes\\PAMNotes.csproj|solutionrelative:pamnotes\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7438A1-16A7-4BB7-9AE5-39411FC3626B}|PAMNotes\\PAMNotes.csproj|d:\\gui\\teste\\pamnotes\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7438A1-16A7-4BB7-9AE5-39411FC3626B}|PAMNotes\\PAMNotes.csproj|solutionrelative:pamnotes\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7438A1-16A7-4BB7-9AE5-39411FC3626B}|PAMNotes\\PAMNotes.csproj|d:\\gui\\teste\\pamnotes\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7438A1-16A7-4BB7-9AE5-39411FC3626B}|PAMNotes\\PAMNotes.csproj|solutionrelative:pamnotes\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7438A1-16A7-4BB7-9AE5-39411FC3626B}|PAMNotes\\PAMNotes.csproj|d:\\gui\\teste\\pamnotes\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7438A1-16A7-4BB7-9AE5-39411FC3626B}|PAMNotes\\PAMNotes.csproj|solutionrelative:pamnotes\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7438A1-16A7-4BB7-9AE5-39411FC3626B}|PAMNotes\\PAMNotes.csproj|d:\\gui\\teste\\pamnotes\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1A7438A1-16A7-4BB7-9AE5-39411FC3626B}|PAMNotes\\PAMNotes.csproj|solutionrelative:pamnotes\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Gui\\teste\\PAMNotes\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PAMNotes\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Gui\\teste\\PAMNotes\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "PAMNotes\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Gui\\teste\\PAMNotes\\MainPage.xaml.cs",
+              "RelativeToolTip": "PAMNotes\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T00:39:27.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutPage.xaml.cs",
+              "DocumentMoniker": "D:\\Gui\\teste\\PAMNotes\\AboutPage.xaml.cs",
+              "RelativeDocumentMoniker": "PAMNotes\\AboutPage.xaml.cs",
+              "ToolTip": "D:\\Gui\\teste\\PAMNotes\\AboutPage.xaml.cs",
+              "RelativeToolTip": "PAMNotes\\AboutPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T00:32:49.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\Gui\\teste\\PAMNotes\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "PAMNotes\\MauiProgram.cs",
+              "ToolTip": "D:\\Gui\\teste\\PAMNotes\\MauiProgram.cs",
+              "RelativeToolTip": "PAMNotes\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T00:39:25.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "D:\\Gui\\teste\\PAMNotes\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "PAMNotes\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "D:\\Gui\\teste\\PAMNotes\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "PAMNotes\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAlwEwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T00:43:05.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "D:\\Gui\\teste\\PAMNotes\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "PAMNotes\\AboutPage.xaml",
+              "ToolTip": "D:\\Gui\\teste\\PAMNotes\\AboutPage.xaml",
+              "RelativeToolTip": "PAMNotes\\AboutPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T00:32:45.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Gui\\teste\\PAMNotes\\MainPage.xaml",
+              "RelativeDocumentMoniker": "PAMNotes\\MainPage.xaml",
+              "ToolTip": "D:\\Gui\\teste\\PAMNotes\\MainPage.xaml",
+              "RelativeToolTip": "PAMNotes\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T00:43:38.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\Gui\\teste\\PAMNotes\\AppShell.xaml",
+              "RelativeDocumentMoniker": "PAMNotes\\AppShell.xaml",
+              "ToolTip": "D:\\Gui\\teste\\PAMNotes\\AppShell.xaml",
+              "RelativeToolTip": "PAMNotes\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-17T00:38:10.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

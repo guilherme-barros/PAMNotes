@@ -1,1 +1,1 @@
-D:\Gui\PAMNotes\PAMNotes\PAMNotes.csproj;x64
+D:\Gui\teste\PAMNotes\PAMNotes.csproj;x64
